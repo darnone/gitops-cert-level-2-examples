@@ -1,4 +1,4 @@
-# Codefresh GitOps Certification examples - Level 2 - GitOps at scale
+# Codefresh GitOps Certification examples - Level 2 - GitOps at scale darnone
 
 This repository contains examples for the ArgoCD/GitOps
 certification workshops (Level 2)
