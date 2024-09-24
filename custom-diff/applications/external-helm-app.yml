@@ -24,9 +24,9 @@ spec:
       - RespectIgnoreDifferences=true
       
   ignoreDifferences:
-  - group: apps
-    kind: Deployment
+  - group: 
+    kind: Secret
     jsonPointers:
-      - /metadata
+      - /data/my-password
 
 
